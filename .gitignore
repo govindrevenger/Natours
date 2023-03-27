@@ -1,0 +1,4 @@
+config.env
+public
+dev-data
+node_modules
